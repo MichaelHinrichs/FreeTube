@@ -119,7 +119,7 @@ The first build with a green check mark is the latest build.
 
 * Scoop (Windows Only): [Usage](https://github.com/ScoopInstaller/Scoop)
 
-* Snap: [Download](https://snapcraft.io/freetube) and [Source Code](https://git.launchpad.net/freetube)
+* Snap: [<img src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg" alt="snap" height="20"/>](https://snapcraft.io/freetube) and [Source Code](https://git.launchpad.net/freetube)
 
 * WAPT: [Download](https://wapt.tranquil.it/store/tis-freetube)
 
