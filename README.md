@@ -105,7 +105,7 @@ The first build with a green check mark is the latest build.
 
 * Arch User Repository (AUR): [Download](https://aur.archlinux.org/packages/freetube-bin/)
 
-* Chocolatey: [Download](https://chocolatey.org/packages/freetube/)
+* Chocolatey: [![Static Badge](https://img.shields.io/badge/Chocolatey-Download-80B5E3?logo=chocolatey)](https://chocolatey.org/packages/freetube/)
 
 * FreeTubeAndroid (FreeTube port for Android and PWA): [Download](https://github.com/MarmadileManteater/FreeTubeAndroid/releases) and [Source Code](https://github.com/MarmadileManteater/FreeTubeAndroid)
 
