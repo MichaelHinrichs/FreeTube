@@ -113,7 +113,7 @@ The first build with a green check mark is the latest build.
 
 * makedeb Package Repository (MPR): [Download](https://mpr.makedeb.org/packages/freetube-bin)
 
-* Nix Packages: [Download](https://search.nixos.org/packages?query=freetube)
+* Nix Packages: [![Static Badge](https://img.shields.io/badge/Nix%20Packages-Download-5277C3?logo=Nixos)](https://search.nixos.org/packages?query=freetube)
 
 * PortableApps (Windows Only): [Download](https://github.com/rddim/FreeTubePortable/releases) and [Source Code](https://github.com/rddim/FreeTubePortable)
 
