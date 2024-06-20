@@ -86,7 +86,7 @@ FreeTube is supported by the [Privacy Redirect](https://github.com/SimonBrazell/
 
 * [FreeTube Website](https://freetubeapp.io/#download)
 
-* Flatpak on Flathub: <a href='https://flathub.org/apps/io.freetubeapp.FreeTube'><img width='120' alt='Download' src='https://flathub.org/api/badge?locale=en'/></a> and [Source Code](https://github.com/flathub/io.freetubeapp.FreeTube)
+* Flatpak on Flathub: <a href='https://flathub.org/apps/io.freetubeapp.FreeTube'><img height='20' alt='Download' src='https://flathub.org/api/badge?locale=en'/></a> and [Source Code](https://github.com/flathub/io.freetubeapp.FreeTube)
 
 #### Automated Builds (Nightly / Weekly)
 > [!WARNING]
