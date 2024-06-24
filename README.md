@@ -149,7 +149,7 @@ If you ever have any questions, feel free to ask it on our [Discussions](https:/
 ## Donate
 If you enjoy using FreeTube, you're welcome to leave a donation using the following methods.  
 
-* [FreeTube on Liberapay](https://liberapay.com/FreeTube)
+* [![FreeTube on Liberapay](https://img.shields.io/badge/Liberapay-FreeTube-F6C915?logo=liberapay)](https://liberapay.com/FreeTube)
 
 * ![Static Badge](https://img.shields.io/badge/Bitcoin-Address-696969?logo=bitcoin&color=f7931a): `1Lih7Ho5gnxb1CwPD4o59ss78pwo2T91eS`
 
