@@ -82,9 +82,10 @@ FreeTube is supported by the [Privacy Redirect](https://github.com/SimonBrazell/
 > [!CAUTION]
 > FreeTube is only supported on Windows 10 and later, macOS 10.15 and above, and various Linux distributions. Installing it on unsupported systems may result in unexpected issues.
 
-* [GitHub Releases](https://github.com/FreeTubeApp/FreeTube/releases)
+* [![GitHub-Releases](https://img.shields.io/badge/GitHub-Releases-blue?logo=github)](https://github.com/FreeTubeApp/FreeTube/releases)
 
-* [FreeTube Website](https://freetubeapp.io/#download)
+* [![FreeTube Website](https://img.shields.io/badge/FreeTube-Website-blue?logo=FreeTube)](https://freetubeapp.io/#download)
+
 
 * Flatpak on Flathub: <a href='https://flathub.org/apps/io.freetubeapp.FreeTube'><img height='20' alt='Download' src='https://flathub.org/api/badge?locale=en'/></a> and [Source Code](https://github.com/flathub/io.freetubeapp.FreeTube)
 
