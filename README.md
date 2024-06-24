@@ -151,7 +151,7 @@ If you enjoy using FreeTube, you're welcome to leave a donation using the follow
 
 * [FreeTube on Liberapay](https://liberapay.com/FreeTube)
 
-* Bitcoin Address: `1Lih7Ho5gnxb1CwPD4o59ss78pwo2T91eS`
+* ![Static Badge](https://img.shields.io/badge/Bitcoin-Address-696969?logo=bitcoin&color=f7931a): `1Lih7Ho5gnxb1CwPD4o59ss78pwo2T91eS`
 
 * Monero Address: `48WyAPdjwc6VokeXACxSZCFeKEXBiYPV6GjfvBsfg4CrUJ95LLCQSfpM9pvNKy5GE5H4hNaw99P8RZyzmaU9kb1pD7kzhCB`
 
